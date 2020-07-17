@@ -1,5 +1,5 @@
 * About me
-Mostly interested in Lisps, Emacs, Devtools, Search 
+Mostly interested in Lisps, Emacs, Devtools and Search 
 
 * Currently working on
 1. Building lisp interpreters/compilers ( for learning, nothing serious )
