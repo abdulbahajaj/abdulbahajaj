@@ -1,1 +1,6 @@
-* Test
+* About me
+Mostly interested in Lisps, Emacs, Devtools, Search 
+
+* Currently working on
+1. Building lisp interpreters/compilers ( for learning, nothing serious )
+2. Building a repl.it like package for emacs ( to be released soon )
